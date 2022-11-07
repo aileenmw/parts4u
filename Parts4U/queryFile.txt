@@ -1,0 +1,1 @@
+INSERT INTO products (Name, Type, Description, ItemNumber, Cost, typeId)  VALUES ('Iso stik, Pioneer QDP3012', 'Reservedele', ' Passer til følgende modeller: DEH-1300MP DEH-1400UB DEH-140UB DEH-150MP DEH-2300UB DEH-2400UB DEH-2500Ui DEH-3300UB DEH-3400UB DEH-4200SD DEH-4300UB DEH-6300SD MVH-1400UB ', '34961', 22900, 1);
